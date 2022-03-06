@@ -1,8 +1,6 @@
-algosoup
+I am a data guy, 
 
-A creative coder
-
-mostly using p5.js and processing
+in my spare time i am into creative coding using p5.js and processing
 
 <!---
 algosoup/algosoup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
